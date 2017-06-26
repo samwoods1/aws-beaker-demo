@@ -1,0 +1,7 @@
+Gemfile.lock
+.bundle
+junit
+log
+tmp
+temp
+vendor
